@@ -140,6 +140,7 @@ function App() {
       <h2 className='resultado'></h2>
         {/* <button onClick={() => Encerrar({ playerScore, computerScore })}>Encerrar o jogo</button>
         <p>{teste}</p> */}
+      <h2> Recarregue a página para jogar novamente</h2>
     </div>
   </div>
   )
